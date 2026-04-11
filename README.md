@@ -12,13 +12,15 @@
 
 <br><br>
 
-<h3 align="center">Um de meus projetos em desenvolvimento</h3>
+<p align="center">
+  <b>Um de meus projetos em desenvolvimento</b>
+</p>
 
 <h2 align="center">ShiraShell</h2>
 
 <p align="center">
-  A custom Linux shell built with Quickshell<br>
-  Focused on customization, visuals and usability
+  Custom Linux shell using Quickshell<br>
+  Focused on aesthetics and performance
 </p>
 
 <br>
