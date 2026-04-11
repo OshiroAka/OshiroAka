@@ -14,3 +14,16 @@
 <p align="center">
   <img src="https://media.tenor.com/MpaHeJeZybgAAAAi/cat-hug.gif" width="80">
 </p>
+<br>
+
+<h2 align="center">ShiraShell</h2>
+
+<p align="center">
+  A custom Linux shell built with Quickshell
+</p>
+
+<p align="center">
+  <a href="https://github.com/OshiroAka/Dotfiles">
+    View Project
+  </a>
+</p>
