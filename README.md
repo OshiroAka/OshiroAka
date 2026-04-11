@@ -37,7 +37,7 @@ Focused on customization, visuals and usability
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/1481756002243182612/1492633136641868058/image.png?ex=69dc0a6f&is=69dab8ef&hm=0c12428391d49776463a6a78e011a2ef1d865fe91d25aa1c5d05d52d99860fdb&" width="80%">
+<img src="https://github.com/OshiroAka/Dotfiles/blob/main/assets/2026-04-1119-39-22-ezgif.com-video-to-gif-converter.gif?raw=true" width="80%">
 
 <br><br>
 
