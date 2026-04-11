@@ -22,8 +22,6 @@
 
 **⟡ Building ShiraShell as one of my projects**
 
-**✦ Sharing my studies and progress**
-
 <br clear="right"/>
 
 ---
@@ -48,7 +46,7 @@
 </p>
 
 <p align="center">
-Digita aqui seu texto
+
 </p>
 
 ---
@@ -58,7 +56,7 @@ Digita aqui seu texto
 <p align="center">
 <b>ShiraShell progress</b>
 </p>
-
+A customizable and easy-to-use wallpaper selector, with support for awww, mpvpaper, and wallpaper engine.
 <p align="center">
 ▌▌▌▌▌▌▌░░░ 70%
 </p>
