@@ -14,24 +14,38 @@
 
 <hr>
 
-<h2 align="center">✦ About me and projects</h2>
+<h3 align="center">✦ About me</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td width="35%" align="center">
-      <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="220">
+    <td width="20%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="150">
     </td>
-    <td width="65%" valign="top">
 
-「」 My name is Shira  
-<br><br>
-✦ Learning JavaScript, Python and C++  
-<br><br>
-❀ Exploring Linux customization and Quickshell  
-<br><br>
-⟡ Building ShiraShell as one of my projects  
-<br><br> 
+    <td width="60%" align="center" valign="middle">
 
+「」 My name is Shira
+
+<br><br>
+
+✦ Learning JavaScript, Python and C++
+
+<br><br>
+
+❀ Exploring Linux customization and Quickshell
+
+<br><br>
+
+⟡ Building ShiraShell as one of my projects
+
+<br><br>
+
+✦ Sharing my studies and progress
+
+    </td>
+
+    <td width="20%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="150">
     </td>
   </tr>
 </table>
