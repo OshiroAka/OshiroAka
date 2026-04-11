@@ -20,7 +20,7 @@
 
 ---
 
-# ShiraShell
+# ＳｈｉｒａＳｈｅｌｌ
 
 **One of my projects in development**
 
@@ -33,4 +33,14 @@ Focused on customization, visuals and usability
 
 <br><br>
 
-[View Project](https://github.com/OshiroAka/Dotfiles)
+<p align="center">
+  <a href="https://github.com/OshiroAka/Dotfiles">
+    <img src="https://img.shields.io/badge/ShiraShell-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/614174948243669106">
+    <img src="https://img.shields.io/badge/Discord_Profile-111111?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://discord.gg/G9YE9HFx">
+    <img src="https://img.shields.io/badge/Discord_Server-111111?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
