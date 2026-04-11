@@ -18,10 +18,7 @@
 
 <table align="center">
   <tr>
-    <td width="20%" align="center" valign="top">
-      <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="120">
-    </td>
-    <td width="60%" align="center" valign="middle">
+    <td width="65%" valign="top">
 
 「」 My name is Shira
 
@@ -42,8 +39,9 @@
 ✦ Sharing my studies and progress
 
     </td>
-    <td width="20%" align="center" valign="top">
-      <img src="https://i.pinimg.com/736x/9c/1f/d6/9c1fd6485ac816ad199ea30ca1be83b3.jpg" width="120">
+
+    <td width="35%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="180">
     </td>
   </tr>
 </table>
@@ -72,7 +70,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/OshiroAka/Dotfiles">View Project</a>
+  <a href="https://github.com/OshiroAka/Dotfiles">
+    View Project
+  </a>
 </p>
 
 <br>
