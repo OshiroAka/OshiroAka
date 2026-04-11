@@ -47,6 +47,26 @@
   <i>Preview of ShiraShell in action</i>
 </p>
 
+<p align="center">
+Digita aqui seu texto
+</p>
+
+---
+
+## <div align="center">✦ Project progress</div>
+
+<p align="center">
+<b>ShiraShell progress</b>
+</p>
+
+<p align="center">
+▌▌▌▌▌▌▌░░░ 70%
+</p>
+
+<p align="center">
+UI structure • Theme ideas • Visual previews • Continuous refinement
+</p>
+
 <br>
 
 <p align="center">
@@ -66,7 +86,7 @@
 ## <div align="center">✦ Current focus</div>
 
 <p align="center">
-  Linux customization • Quickshell • UI ideas • ShiraShell development
+Linux customization • Quickshell • UI ideas • ShiraShell development
 </p>
 
 ---
@@ -82,22 +102,6 @@
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Quickshell-111111?style=for-the-badge&logo=qt&logoColor=white">
   <img src="https://img.shields.io/badge/Makefile-111111?style=for-the-badge&logo=gnu&logoColor=white">
-</p>
-
----
-
-## <div align="center">✦ Project progress</div>
-
-<p align="center">
-  <b>ShiraShell progress</b>
-</p>
-
-<p align="center">
-  ▌▌▌▌▌▌▌░░░ 70%
-</p>
-
-<p align="center">
-  UI structure • Theme ideas • Visual previews • Continuous refinement
 </p>
 
 ---
