@@ -32,10 +32,12 @@
 
 **One of my projects in development**
 
+<img align="right" src="https://media.tenor.com/DimzPZMypFcAAAAj/laptop.gif" width="120">
+
 「」 A custom Linux shell built with Quickshell  
 「」 Focused on customization, visuals and usability
 
-<br>
+<br><br><br>
 
 <p align="center">
   <img src="https://github.com/OshiroAka/Dotfiles/blob/main/assets/2026-04-1119-39-22-ezgif.com-video-to-gif-converter.gif?raw=true" width="80%">
@@ -78,4 +80,6 @@
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Quickshell-111111?style=for-the-badge&logo=qt&logoColor=white">
+  <img src="https://img.shields.io/badge/Makefile-111111?style=for-the-badge&logo=gnu&logoColor=white">
 </p>
