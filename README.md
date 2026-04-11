@@ -1,6 +1,8 @@
 <h2 align="center">OshiroAka</h2>
 
-<p align="center"><i>Learning JS, Python & C++</i></p>
+<p align="center">
+  <i>Learning JS, Python & C++</i>
+</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1425659141086773338/1492402309907615866/Picsart_26-04-11_02-53-40-001.jpg?ex=69db3376&is=69d9e1f6&hm=e5e4c7a6f3482440dddf955749f8d39a5a00698f0cf67e55020fbd215f3ee5a0&" width="100%">
@@ -10,29 +12,19 @@
 
 <h2 align="center">✦ About me</h2>
 
-<table align="center" width="90%">
-  <tr>
-    <td width="60%" valign="top">
+<p align="center"><b>「」 My name is Shira</b></p>
 
-<p><b>「」 My name is Shira</b></p>
+<p align="center"><b>✦ Learning JavaScript, Python and C++</b></p>
 
-<p><b>✦ Learning JavaScript, Python and C++</b></p>
+<p align="center"><b>❀ Exploring Linux customization and Quickshell</b></p>
 
-<p><b>❀ Exploring Linux customization and Quickshell</b></p>
+<p align="center"><b>⟡ Building ShiraShell as one of my projects</b></p>
 
-<p><b>⟡ Building ShiraShell as one of my projects</b></p>
+<p align="center"><b>✦ Sharing my studies and progress</b></p>
 
-<p><b>✦ Sharing my studies and progress</b></p>
-
-    </td>
-
-    <td width="40%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="260">
-    </td>
-  </tr>
-</table>
-
-<br>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="220">
+</p>
 
 <hr>
 
