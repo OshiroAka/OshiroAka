@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="https://cdn.discordapp.com/attachments/1425659141086773338/1492402309907615866/Picsart_26-04-11_02-53-40-001.jpg?ex=69db3376&is=69d9e1f6&hm=e5e4c7a6f3482440dddf955749f8d39a5a00698f0cf67e55020fbd215f3ee5a0&" width="220">
+      <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="220">
     </td>
     <td width="65%" valign="top">
 
