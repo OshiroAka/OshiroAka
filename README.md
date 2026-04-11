@@ -32,14 +32,20 @@
 
 **One of my projects in development**
 
-A custom Linux shell built with Quickshell  
-Focused on customization, visuals and usability
+「」 A custom Linux shell built with Quickshell  
+「」 Focused on customization, visuals and usability
 
 <br>
 
-<img src="https://github.com/OshiroAka/Dotfiles/blob/main/assets/2026-04-1119-39-22-ezgif.com-video-to-gif-converter.gif?raw=true" width="80%">
+<p align="center">
+  <img src="https://github.com/OshiroAka/Dotfiles/blob/main/assets/2026-04-1119-39-22-ezgif.com-video-to-gif-converter.gif?raw=true" width="80%">
+</p>
 
-<br><br>
+<p align="center">
+  <i>Preview of ShiraShell in action</i>
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/OshiroAka/Dotfiles">
