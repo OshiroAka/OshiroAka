@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif" width="100%">
+  <img src="https://i.pinimg.com/1200x/0d/27/3c/0d273cbd86ac83526d363dde9ec192b0.jpg" width="100%">
 </p>
 <h2 align="center">OshiroAka</h2>
 
