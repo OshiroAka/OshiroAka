@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-
+  A customizable and easy-to-use wallpaper selector, with support for awww, mpvpaper, and Wallpaper Engine.
 </p>
 
 ---
@@ -54,15 +54,15 @@
 ## <div align="center">✦ Project progress</div>
 
 <p align="center">
-<b>ShiraShell progress</b>
-</p>
-A customizable and easy-to-use wallpaper selector, with support for awww, mpvpaper, and wallpaper engine.
-<p align="center">
-▌▌▌▌▌▌▌░░░ 70%
+  <b>ShiraShell progress</b>
 </p>
 
 <p align="center">
-UI structure • Theme ideas • Visual previews • Continuous refinement
+  ▌▌▌▌▌▌▌░░░ 70%
+</p>
+
+<p align="center">
+  UI structure • Theme ideas • Visual previews • Continuous refinement
 </p>
 
 <br>
