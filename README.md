@@ -1,8 +1,6 @@
 <h2 align="center">OshiroAka</h2>
 
-<p align="center">
-  <i>Learning JS, Python & C++</i>
-</p>
+<p align="center"><i>Learning JS, Python & C++</i></p>
 
 <br>
 
@@ -16,30 +14,15 @@
 
 <h3 align="center">✦ About me</h3>
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="65%" valign="top">
-
-「」 My name is Shira
-
-<br><br>
-
-✦ Learning JavaScript, Python and C++
-
-<br><br>
-
-❀ Exploring Linux customization and Quickshell
-
-<br><br>
-
-⟡ Building ShiraShell as one of my projects
-
-<br><br>
-
-✦ Sharing my studies and progress
-
+      <p>「」 My name is Shira</p>
+      <p>✦ Learning JavaScript, Python and C++</p>
+      <p>❀ Exploring Linux customization and Quickshell</p>
+      <p>⟡ Building ShiraShell as one of my projects</p>
+      <p>✦ Sharing my studies and progress</p>
     </td>
-
     <td width="35%" align="center" valign="middle">
       <img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="180">
     </td>
@@ -52,9 +35,7 @@
 
 <h2 align="center">ShiraShell</h2>
 
-<p align="center">
-  <b>One of my projects in development</b>
-</p>
+<p align="center"><b>One of my projects in development</b></p>
 
 <p align="center">
   A custom Linux shell built with Quickshell<br>
