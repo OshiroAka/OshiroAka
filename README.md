@@ -83,3 +83,49 @@
   <img src="https://img.shields.io/badge/Quickshell-111111?style=for-the-badge&logo=qt&logoColor=white">
   <img src="https://img.shields.io/badge/Makefile-111111?style=for-the-badge&logo=gnu&logoColor=white">
 </p>
+
+---
+
+## <div align="center">✦ Project progress</div>
+
+<p align="center">
+  <b>ShiraShell progress</b>
+</p>
+
+<p align="center">
+  ███████░░░ 70%
+</p>
+
+<p align="center">
+  UI structure • Theme ideas • Visual previews • Continuous refinement
+</p>
+
+---
+
+## <div align="center">✦ Roadmap</div>
+
+- [x] Profile showcase created
+- [x] Banner and project preview added
+- [x] GIF preview added
+- [x] Tech badges added
+- [ ] Improve project structure
+- [ ] Add cleaner installation flow
+- [ ] Add more previews and themes
+- [ ] Create a more polished README for Dotfiles
+
+---
+
+## <div align="center">✦ GitHub stats</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OshiroAka&show_icons=true&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshiroAka&layout=compact&theme=transparent&hide_border=true" height="165">
+</p>
+
+---
+
+## <div align="center">✦ Visitors</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OshiroAka&style=for-the-badge&color=111111">
+</p>
