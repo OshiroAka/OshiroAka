@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/53/c2/47/53c24752f4d0365c6b03eff6574a36ad.gif" width="80">
+  <img src="https://media.tenor.com/MpaHeJeZybgAAAAi/cat-hug.gif" width="80">
 </p>
