@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifdb.com/images/high/anime-banner-gif-file-836kb-xv3jhhtrcw2jrtr0.webp" width="100%">
+  <img src="https://i.pinimg.com/736x/54/45/79/544579800af6b17cf7465a6a177daa74.jpg" width="100%">
 </p>
 <h2 align="center">OshiroAka</h2>
 
