@@ -10,13 +10,21 @@
 
 ## <div align="center">✦ About me</div>
 
-<div align="center">
+<img align="right" src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="220">
 
-| | |
-|---|---|
-| **「」 My name is Shira**<br><br>**✦ Learning JavaScript, Python and C++**<br><br>**❀ Exploring Linux customization and Quickshell**<br><br>**⟡ Building ShiraShell as one of my projects**<br><br>**✦ Sharing my studies and progress** | &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/c4/36/80/c4368049a8da0fa06bccd14a69ef53ff.gif" width="210"> |
+<br>
 
-</div>
+**「」 My name is Shira**
+
+**✦ Learning JavaScript, Python and C++**
+
+**❀ Exploring Linux customization and Quickshell**
+
+**⟡ Building ShiraShell as one of my projects**
+
+**✦ Sharing my studies and progress**
+
+<br clear="right"/>
 
 ---
 
@@ -43,4 +51,25 @@ Focused on customization, visuals and usability
   <a href="https://discord.gg/G9YE9HFx">
     <img src="https://img.shields.io/badge/Discord_Server-111111?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+</p>
+
+---
+
+## <div align="center">✦ Current focus</div>
+
+<p align="center">
+  Linux customization • Quickshell • UI ideas • ShiraShell development
+</p>
+
+---
+
+## <div align="center">✦ Tech</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 </p>
