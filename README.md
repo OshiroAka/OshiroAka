@@ -7,9 +7,10 @@
 <h2 align="center">OshiroAka</h2>
 
 <p align="center">
-  Learning JS, Python & C++  
-  <br>
+  Learning JS, Python & C++<br>
   Building ShiraShell
 </p>
 
-<br>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/53/c2/47/53c24752f4d0365c6b03eff6574a36ad.gif" width="80">
+</p>
