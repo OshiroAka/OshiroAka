@@ -29,7 +29,7 @@ Focused on customization, visuals and usability
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/1425659141086773338/1492402309907615866/Picsart_26-04-11_02-53-40-001.jpg?ex=69db3376&is=69d9e1f6&hm=e5e4c7a6f3482440dddf955749f8d39a5a00698f0cf67e55020fbd215f3ee5a0&" width="80%">
+<img src="https://media.discordapp.net/attachments/1481756002243182612/1492631492373774436/image.png?ex=69dc08e7&is=69dab767&hm=aa4843149168b9b367973aa80109eaa903accb4516eaa267d4324444e6d349fb&=&format=webp&quality=lossless&width=1385&height=866" width="80%">
 
 <br><br>
 
