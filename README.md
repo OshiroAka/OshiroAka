@@ -2,8 +2,6 @@
 
 <p align="center"><i>Learning JS, Python & C++</i></p>
 
-<br>
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1425659141086773338/1492402309907615866/Picsart_26-04-11_02-53-40-001.jpg?ex=69db3376&is=69d9e1f6&hm=e5e4c7a6f3482440dddf955749f8d39a5a00698f0cf67e55020fbd215f3ee5a0&" width="100%">
 </p>
@@ -12,19 +10,19 @@
 
 <h2 align="center">✦ About me</h2>
 
-<table align="center" width="85%">
+<table align="center" width="90%">
   <tr>
     <td width="60%" valign="top">
 
-### 「」 My name is Shira
+<p><b>「」 My name is Shira</b></p>
 
-### ✦ Learning JavaScript, Python and C++
+<p><b>✦ Learning JavaScript, Python and C++</b></p>
 
-### ❀ Exploring Linux customization and Quickshell
+<p><b>❀ Exploring Linux customization and Quickshell</b></p>
 
-### ⟡ Building ShiraShell as one of my projects
+<p><b>⟡ Building ShiraShell as one of my projects</b></p>
 
-### ✦ Sharing my studies and progress
+<p><b>✦ Sharing my studies and progress</b></p>
 
     </td>
 
