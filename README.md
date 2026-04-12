@@ -71,36 +71,6 @@
 
 <br>
 
-## <div align="center">✦ Project Progress</div>
-
-<p align="center">
-  <b>🚀 ShiraShell progress</b>
-</p>
-
-<p align="center">
-  ｜｜　　　｜｜　　　｜｜<br>
-  ｜｜　｜｜｜｜　｜｜　｜｜<br>
-  　　　｜｜
-</p>
-
-<p align="center">
-  70% Complete
-</p>
-
-<p align="center">
-  ・ UI structure　・ Theme ideas　・ Visual previews　・ Continuous refinement
-</p>
-
-<br>
-
-## <div align="center">✦ Current Focus</div>
-
-<p align="center">
-  Linux customization — Quickshell — UI ideas — ShiraShell development
-</p>
-
-<br>
-
 ## <div align="center">✦ My Skills</div>
 
 <p align="center">
