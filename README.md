@@ -30,7 +30,9 @@
 
 <br>
 
-# ＳｈｉｒａＳｈｅｌｌ
+<p align="center">
+  <img src="https://img.shields.io/badge/%EF%BC%B3%EF%BD%88%EF%BD%89%EF%BD%92%EF%BD%81%EF%BC%B3%EF%BD%88%EF%BD%85%EF%BD%8C%EF%BD%8C-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED">
+</p>
 
 <p>
   <b>🌸 One of my projects in development</b>
