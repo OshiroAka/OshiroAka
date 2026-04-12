@@ -100,7 +100,7 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1425273893257744479/1492768251258863838/04124.gif?ex=69dc8845&is=69db36c5&hm=fcd13d93077eb04be4b1b51d2985b6fe4a628a40ed24d17877f4687e392c46dc&" width="900">
+  <img src="https://cdn.discordapp.com/attachments/1425273893257744479/1492768251258863838/04124.gif?ex=69dc8845&is=69db36c5&hm=fcd13d93077eb04be4b1b51d2985b6fe4a628a40ed24d17877f4687e392c46dc&" width="840">
 </p>
 
 <p align="center">
