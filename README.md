@@ -18,9 +18,11 @@
 
 **✦ Learning JavaScript, Python and C++**
 
-**❀ Exploring Linux customization and Quickshell**
+**❀ Exploring Linux customization, Hyprland and Quickshell**
 
 **⟡ Building ShiraShell as one of my projects**
+
+**✦ Interested in AI learning and computer knowledge**
 
 <br clear="right"/>
 
@@ -46,7 +48,7 @@
 </p>
 
 <p align="center">
-  A customizable and easy-to-use wallpaper selector, with support for awww, mpvpaper, and Wallpaper Engine.
+  A customizable and easy-to-use wallpaper selector, with support for swww, mpvpaper, and Wallpaper Engine.
 </p>
 
 ---
@@ -62,7 +64,7 @@
 </p>
 
 <p align="center">
-  UI structure • Theme ideas • Visual previews • Continuous refinement
+  UI structure — Theme ideas — Visual previews — Continuous refinement
 </p>
 
 <br>
@@ -84,22 +86,29 @@
 ## <div align="center">✦ Current focus</div>
 
 <p align="center">
-Linux customization • Quickshell • UI ideas • ShiraShell development
+Linux customization — Quickshell — UI ideas — ShiraShell development
 </p>
 
 ---
 
-## <div align="center">✦ Tech</div>
+## <div align="center">✦ My Skills</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Hyprland-111111?style=for-the-badge&logo=wayland&logoColor=white">
   <img src="https://img.shields.io/badge/Quickshell-111111?style=for-the-badge&logo=qt&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell-111111?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/.bat-111111?style=for-the-badge&logo=windows-terminal&logoColor=white">
   <img src="https://img.shields.io/badge/Makefile-111111?style=for-the-badge&logo=gnu&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Learning-111111?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/PC_Knowledge-111111?style=for-the-badge&logo=amd&logoColor=white">
 </p>
 
 ---
