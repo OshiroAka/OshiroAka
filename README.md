@@ -29,11 +29,10 @@
 <br clear="right"/>
 
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/ShiraShell-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED">
-</p>
 
-<h2 align="center">ＳｈｉｒａＳｈｅｌｌ</h2>
+<p align="center">
+  <img src="https://github.com/OshiroAka/Dotfiles/blob/main/assets/ShiraShell.png?raw=true" width="100%">
+</p>
 
 <p>
   <b>🌸 One of my projects in development</b>
@@ -62,13 +61,13 @@
 
 <p align="center">
   <a href="https://github.com/OshiroAka/Dotfiles">
-    <img src="https://img.shields.io/badge/ShiraShell-5B4B8A?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/ShiraShell-2b2d42?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://discord.com/users/614174948243669106">
-    <img src="https://img.shields.io/badge/Discord_Profile-8A63D2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://discord.gg/G9YE9HFx">
-    <img src="https://img.shields.io/badge/Discord_Server-B07CFF?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
