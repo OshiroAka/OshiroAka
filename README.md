@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="a"
+    src="https://github.com/OshiroAka/OshiroAka/blob/main/assets/5e76456f3da79c4c930fed099d8a0c65.jpg"
     width="100%"
     alt="Profile banner"
   >
