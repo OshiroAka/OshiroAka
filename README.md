@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/OshiroAka/Velora-Shell/main/assets/Review-1.png"
+    src="https://raw.githubusercontent.com/OshiroAka/OshiroAka/main/assets/5e76456f3da79c4c930fed099d8a0c65.jpg"
     width="100%"
     alt="Profile banner"
   >
@@ -65,6 +65,13 @@ Currently, most of my work is focused on Linux interfaces using QML, Quickshell 
 - Learning more about Git and open-source development
 
 ---
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/OshiroAka/Velora-Shell/main/assets/Review-1.png"
+    width="100%"
+    alt="Velora Shell preview"
+  >
+</p>
 
 ## Main technologies
 
