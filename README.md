@@ -1,13 +1,10 @@
-
 <p align="center">
   <img
-    src="https://github.com/OshiroAka/OshiroAka/blob/main/assets/5e76456f3da79c4c930fed099d8a0c65.jpg"
+    src="https://raw.githubusercontent.com/OshiroAka/Velora-Shell/main/assets/Review-1.png"
     width="100%"
     alt="Profile banner"
   >
 </p>
-
--->
 
 <h1 align="center">Hello, I'm Shira ✨</h1>
 
@@ -50,22 +47,22 @@ I enjoy exploring how visual design, animations and system functionality can wor
 
 Currently, most of my work is focused on Linux interfaces using QML, Quickshell and Hyprland.
 
-* Building and improving Linux desktop interfaces
-* Learning programming through practical projects
-* Exploring UI and UX design
-* Experimenting with animations, widgets and system integrations
-* Interested in artificial intelligence and computer technology
+- Building and improving Linux desktop interfaces
+- Learning programming through practical projects
+- Exploring UI and UX design
+- Experimenting with animations, widgets and system integrations
+- Interested in artificial intelligence and computer technology
 
 ---
 
 ## Current focus
 
-* Improving my knowledge of **QML and Quickshell**
-* Creating components and interfaces for **Hyprland**
-* Learning better software architecture and project organization
-* Improving animations, interactions and visual consistency
-* Studying **Python, JavaScript and C++**
-* Learning more about Git and open-source development
+- Improving my knowledge of **QML and Quickshell**
+- Creating components and interfaces for **Hyprland**
+- Learning better software architecture and project organization
+- Improving animations, interactions and visual consistency
+- Studying **Python, JavaScript and C++**
+- Learning more about Git and open-source development
 
 ---
 
@@ -93,7 +90,7 @@ Currently, most of my work is focused on Linux interfaces using QML, Quickshell 
   <img src="https://img.shields.io/badge/JavaScript-1F2430?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/C++-1F2430?style=for-the-badge&logo=cplusplus&logoColor=7A5CFF" alt="C++">
   <img src="https://img.shields.io/badge/HTML-1F2430?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1F2430?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS">
+  <img src="https://img.shields.io/badge/CSS-1F2430?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
 </p>
 
 ---
@@ -105,50 +102,3 @@ Linux customization     Desktop environments
 UI and UX design        Animations and interactions
 Artificial intelligence Open-source development
 System integration      Computer technology
-```
-
----
-
-## GitHub activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=OshiroAka&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A7FF&icon_color=C9A7FF&text_color=C9D1D9"
-    height="165"
-    alt="GitHub statistics"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshiroAka&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A7FF&text_color=C9D1D9"
-    height="165"
-    alt="Most used languages"
-  >
-</p>
-
----
-
-## Main project
-
-<h3 align="center">Velora Shell</h3>
-
-<p align="center">
-  A customizable Linux desktop shell built with QML and Quickshell for Hyprland.
-</p>
-
-<p align="center">
-  Focused on modular components, smooth interactions, system integration
-  and a calm visual experience.
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/OshiroAka/Velora-Shell">
-    <img
-      src="https://img.shields.io/badge/View_Velora_Shell-C9A7FF?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Velora Shell"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <sub>Learning, experimenting and improving one commit at a time.</sub>
-</p>
